@@ -1,8 +1,8 @@
 ### Hi 👋
 👨🏻‍💻  I’m currently working on personal projects and Leetcoding.  
 🔎  I'm currently looking for an iOS developer intern/junior position.  
-🎩  **Stack:**   
-Swift | UIKit | Agile | MVC | MVVM | Git | CoreData  
+🎩  **Skills:**   
+Swift | UIKit | Networking | API | Agile | MVC | MVVM | Git | CoreData   
 
 📩  **Email:** zhanabekzinekenov@gmail.com  
 🔗  **Linkedin:** [Let's connect here](https://www.linkedin.com/in/zhanabek-zinekenov/)
