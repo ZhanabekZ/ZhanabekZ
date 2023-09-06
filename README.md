@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi 👋
+👨🏻‍💻  I’m currently working on personal projects and Leetcoding.  
+🔎  I'm currently looking for an iOS developer intern/junior position.  
+🎩  **Stack:**   Swift | UIKit | Agile | MVC | MVVM | Git | CoreData  
 
+📩  **Email:** zhanabekzinekenov@gmail.com  
+🔗  **Linkedin:** [Let's connect here](https://www.linkedin.com/in/zhanabek-zinekenov/)
 <!--
 **ZhanabekZ/ZhanabekZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
