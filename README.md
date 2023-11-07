@@ -1,6 +1,6 @@
 ### Hi 👋
 👨🏻‍💻  I’m currently working on personal projects and Leetcoding.  
-🔎  I'm currently looking for an iOS developer intern/junior position.  
+🔎  Looking for an iOS developer intern/junior position.  
 🎩  **Skills:**   
 Swift | UIKit | Networking | REST API | Agile | MVC | MVVM | Git | CoreData   
 
